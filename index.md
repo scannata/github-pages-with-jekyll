@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Piggy Pictures
 
-I'm glad you are here. I plan to talk about ...
+I tell you how everything works in Piggy. You can ask questions and learn tips. Hope this is helpful!
